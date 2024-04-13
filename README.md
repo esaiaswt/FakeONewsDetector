@@ -10,3 +10,5 @@ Note:
 * Chain-Of-Thought prompt may give flase positives while ReAct is more accurate.
 * Therefore, this the still experimental.  Hence, encourage all to try all Gen AI models and come out the best detector.
 * Code is run using [Colab](https://colab.research.google.com/)
+
+Demo video could be view (here)[https://youtu.be/UFL6iBex3as]
